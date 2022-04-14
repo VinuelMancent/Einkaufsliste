@@ -1,5 +1,6 @@
 # Lebenslauf Vincent
 
+![Vincent](Vincent.jpg)
 ## Bildung
 2017 : Abi
 2018 : Abgebrochenes Studium Tübingen
